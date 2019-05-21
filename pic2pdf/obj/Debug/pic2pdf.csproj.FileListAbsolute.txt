@@ -1,0 +1,14 @@
+D:\projects\pic2pdf\pic2pdf\bin\Debug\pic2pdf.exe.config
+D:\projects\pic2pdf\pic2pdf\bin\Debug\pic2pdf.exe
+D:\projects\pic2pdf\pic2pdf\bin\Debug\pic2pdf.pdb
+D:\projects\pic2pdf\pic2pdf\obj\Debug\pic2pdf.csprojAssemblyReference.cache
+D:\projects\pic2pdf\pic2pdf\obj\Debug\pic2pdf.csproj.CoreCompileInputs.cache
+D:\projects\pic2pdf\pic2pdf\obj\Debug\pic2pdf.exe
+D:\projects\pic2pdf\pic2pdf\obj\Debug\pic2pdf.pdb
+D:\projects\pic2pdf\pic2pdf\bin\Debug\PdfSharp.Charting.dll
+D:\projects\pic2pdf\pic2pdf\bin\Debug\PdfSharp.dll
+D:\projects\pic2pdf\pic2pdf\bin\Debug\PdfSharp.xml
+D:\projects\pic2pdf\pic2pdf\bin\Debug\PdfSharp.Charting.xml
+D:\projects\pic2pdf\pic2pdf\bin\Debug\de\PdfSharp.resources.dll
+D:\projects\pic2pdf\pic2pdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\projects\pic2pdf\pic2pdf\obj\Debug\pic2pdf.csproj.CopyComplete
